@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.shanhuakj.com/sitemap.xml

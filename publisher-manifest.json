@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1defe95719cc558792bff8b8",
+  "owner": "trvmrbhaw",
+  "repo": "page-3aa071a079aa72e530c2f1aa",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3aa071a079aa72e530c2f1aa",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "a0e8c45772801f7461fe07de7a44f118548c2e3c0b3295d25806c6fe0fccb475",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬提供机场订阅与 VPN 梯子网络加速说明，围绕配置流程整理使用场景、套餐入口与客户端官网下载，帮助在官方网站完成查阅与接入准备。",
+          "AI_DESCRIPTION": "快柠檬提供机场订阅与 VPN 梯子网络加速说明，围绕配置流程整理使用场景、套餐入口与客户端官网下载，帮助在官方网站完成查阅与接入准备。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0}*{box-sizing:border-box}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#e8eef2;color:#15202b;font-size:16px;line-height:1.75}a{color:#0e7c86;text-decoration:none}a:hover{text-decoration:underline}header{background:#0b1f33;color:#f4fbfc;padding:18px 16px 14px}header .brand{font-size:13px;letter-spacing:.18em;color:#7ee3ea;text-transform:uppercase}header nav{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:10px;font-size:14px}header nav a{color:#d7f6f8}main{display:block;max-width:980px;margin:0 auto;padding:0 16px 48px}.mast{padding:28px 0 8px;border-bottom:3px solid #1ec8d4;margin-bottom:24px}h1{margin:0 0 8px;font-size:2.05rem;line-height:1.25;color:#0b1f33}h1+p{margin:0;color:#3d5566;font-size:1.05rem}.kicker{display:block;font-size:12px;letter-spacing:.22em;color:#0e8a94;margin-bottom:8px}h2{margin:36px 0 12px;font-size:1.38rem;color:#0b1f33;padding-left:12px;border-left:4px solid #1ec8d4}h3{margin:22px 0 8px;font-size:1.08rem;color:#12344d}.lede{font-size:1.06rem;color:#243746;margin:0 0 18px}.cols{display:grid;grid-template-columns:1fr 1fr;gap:22px 32px;padding-bottom:8px}.cols p{margin:0 0 12px;color:#2a3d4d}.pull{grid-column:1/-1;margin:8px 0 4px;padding:14px 16px;background:#0b1f33;color:#e8fbff;font-size:1.02rem}.pull strong{color:#7ee3ea}.step{margin:0 0 18px;padding:0 0 16px;border-bottom:1px solid #c9d6de}.step:last-of-type{border-bottom:0}.num{display:inline-block;min-width:1.8em;color:#0e8a94;font-weight:700;font-size:1.15rem}.scene{margin:0 0 16px;padding:12px 0}.scene h3{margin-top:0}.note{background:#f7fbfc;border:1px solid #c5dbe0;padding:14px 16px;margin:12px 0 0;color:#33485a}.mod{margin:8px 0 28px;padding:8px 0}details{border-bottom:1px solid #c9d6de;padding:10px 0}details summary{cursor:pointer;font-weight:600;color:#0b1f33;padding:6px 0}details p{margin:8px 0 6px;color:#2c4252}footer{background:#0b1f33;color:#b7c9d4;padding:22px 16px 32px;font-size:13px;text-align:center}footer a{color:#7ee3ea}@media(max-width:720px){.cols{grid-template-columns:1fr}h1{font-size:1.72rem}header nav{font-size:13px}}</style><header><div class=\"brand\">KUAI NING MENG</div><nav><a href=\"#intro\">简介</a><a href=\"#setup\">配置流程</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></nav></header><main><div class=\"mast\"><span class=\"kicker\">编辑式说明 · 配置优先</span><h1>快柠檬</h1><p>快柠檬机场订阅与 VPN 梯子网络加速入口，把官网阅读、套餐选择和客户端下载串成一条可执行的配置路径。</p></div><section id=\"intro\"><h2>品牌简介</h2><p class=\"lede\">快柠檬面向需要跨境访问、资料检索和日常网络加速的读者，用订阅制把「选方案—装客户端—导入配置」写清楚。本页是查阅与准备接入的官方网站说明，不堆砌无法核对的节点清单，也不用空洞口号代替步骤。</p><div class=\"cols\"><p>若把快柠檬称作快柠檬机场，它首先是一份可导入客户端的订阅服务：你在套餐区域完成选择，再把订阅凭证交给本地应用。若把快柠檬称作快柠檬 VPN 或加速器，它解决的是同一件事——在常用设备上稳定走加速通道，而不是另装一套无法说明的神秘工具。</p><p>编辑上我们把版面让给配置流程。原因很直接：多数人卡住的地方不是品牌名字，而是不知道先看哪一段、客户端从哪取、导入后如何确认。因此正文按阅读顺序铺开：先理解快柠檬是什么，再逐步完成配置，最后对照场景与问答查漏。</p><p>本页事实以可见说明为准。未列出的性能数字、节点规模、用户评价、官方机构背书或安装包外链，均不在此编造。价格与额度以套餐模块为准，请勿在正文其他位置寻找另一套数字。</p><p>你可以把本页当作快柠檬官网的阅读底稿：导航锚点对应简介、流程、场景、套餐、客户端与问答。手机上同样按单列阅读，避免左右滑动。需要下载时，请进入客户端一节，由页面注入的真实入口获取，而不是在搜索结果里随意打开来路不明的安装文件。</p></div></section><section id=\"setup\"><h2>配置流程</h2><p class=\"lede\">快柠檬的使用中心是配置，而不是浏览一圈广告位。按下列顺序做完，机场订阅才能在客户端里真正工作。</p><div class=\"pull\">把「选套餐、取订阅、装客户端、导入并检查」当成一条流水线。任何一步跳过，后面的网络加速都只会停在半成品。</div><div class=\"step\"><h3><span class=\"num\">01</span> 确认需求再动手</h3><p>先问自己：主要是查阅公开资料、远程协作，还是多设备同时在线。快柠檬用订阅覆盖这些日常梯子场景，但不同套餐对应不同额度与设备策略。需求不清楚时，先读完场景与问答，再进入套餐，避免选完才发现对不上使用习惯。</p></div><div class=\"step\"><h3><span class=\"num\">02</span> 在套餐区完成选择</h3><p>下滑至套餐方案，阅读名称、计费周期与条目说明。此处只展示由系统注入的方案，正文不重复抄写价格或流量数字，以免和模块不一致。选定后按该模块给出的指引获取订阅凭证。凭证是后续导入的唯一钥匙，不要截图发给陌生人。</p></div><div class=\"step\"><h3><span class=\"num\">03</span> 打开客户端下载入口</h3><p>到「客户端下载」一节获取与系统匹配的应用。快柠檬官网下载的意义在于集中入口：系统、桌面与移动端分别对应不同安装包。不要在第三方网盘或来路不明的论坛找同名文件。安装完成后先不要急着连网，留到导入步骤再启用。</p></div><div class=\"step\"><h3><span class=\"num\">04</span> 导入订阅并更新一次</h3><p>在客户端里找到订阅 / 配置 / URL 导入位置，粘贴凭证，执行更新。成功时会出现可用策略或节点列表。若列表为空，先检查粘贴是否完整、是否多了空格，再确认设备时间是否准确。更新失败时回到套餐入口核对凭证是否仍有效，而不是反复开关飞行模式。</p></div><div class=\"step\"><h3><span class=\"num\">05</span> 选择规则后做一次连通确认</h3><p>导入只完成了「有配置」，还没有完成「能加速」。按客户端习惯选择规则（全局或分流），启用服务，再用浏览器打开一个你平时打不开的页面做验证。游戏或会议软件建议在确认网页可用后再打开，以免把排查范围搅在一起。</p></div><div class=\"step\"><h3><span class=\"num\">06</span> 按场景保存常用组合</h3><p>同一套快柠檬订阅可以服务多种场景，但规则不必永远相同。文献检索可走相对稳定的分流；视频与通话更看重持续连通。把常用组合记在客户端本地，下次打开即可，不必每次从零配置。设备更换时，重复「下载客户端—导入同一订阅」即可，无需重新理解品牌故事。</p></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"cols\"><div class=\"scene\"><h3>公开资料与学术检索</h3><p>需要访问海外公开数据库、文档镜像或课程页面时，快柠檬作为梯子网络加速入口，让浏览器走订阅通道。配置重点是分流：仅对需要的域名启用，减少无关流量消耗。导入成功后先用资料站做连通测试，再开始长时间阅读。</p></div><div class=\"scene\"><h3>远程协作与会议</h3><p>跨国文档、设计稿与会议软件对中断敏感。此时把快柠檬 VPN 通道视为会议前的准备工作：提前导入、提前确认，而不是会议开始后才寻找加速器。若声音卡顿，先确认客户端仍在运行，再考虑更换规则，而不是同时改动多项设置。</p></div><div class=\"scene\"><h3>流媒体与内容站点</h3><p>观看海外内容站点时，关键仍是订阅已更新、客户端在线。不同套餐对流媒体的说明以套餐模块为准。本页不额外承诺解锁清单。若页面能打开但播放中断，回到客户端查看是否掉线，再决定是否更换节点策略。</p></div><div class=\"scene\"><h3>多设备日常上网</h3><p>手机、电脑同时需要加速时，先在官网确认当前方案允许的在线规模，再逐台安装客户端并导入同一订阅。不要在一台设备上重复添加多份相同订阅造成冲突。某台设备不用时，在客户端内断开即可，以免占用名额。</p></div></div></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为快柠檬当前可购买的机场订阅方案，由系统按固定价格注入。阅读时对照自己的流量习惯与设备数量，选定后再回到上方配置流程第 2 步。</p><div class=\"mod\">{{PLANS_HTML}}</div></section><section id=\"clients\"><h2>客户端下载</h2><p>快柠檬客户端下载集中在本区。请按操作系统选择，安装后来源应可追溯到本官网。下表或列表由系统注入真实链接，正文不另行编造下载地址。</p><div class=\"mod\">{{CLIENTS_HTML}}</div><p class=\"note\">安装完成后回到「配置流程」第 4 步导入订阅。只下载不导入，加速器不会生效。</p></section><section id=\"guide\"><h2>操作说明</h2><div class=\"cols\"><p>桌面端：安装后打开主界面，找到订阅栏，粘贴凭证并更新。将系统代理或 TUN 按客户端说明打开，再测网页。退出时选择真正退出而不是仅关闭窗口，以免后台占用。</p><p>移动端：允许 VPN 配置权限后导入同一订阅。建议在稳定 WLAN 下完成首次更新。蜂窝网络下若失败，先检查系统是否禁止了新的 VPN 配置，而不是反复重装应用。</p><p>分流与全局：日常浏览用分流更省流量；需要整台设备走通道时再改全局。改规则后等数秒再刷新页面。快柠檬的配置价值在于可重复，而不是每次都重装。</p><p>凭证保管：订阅地址等同登录钥匙。不要发到群文件，不要写进公开笔记。怀疑泄露时，回到套餐入口按提示重置，再在所有设备上重新导入一次。</p></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>快柠檬是机场还是 VPN？两者有何关系？</summary><p>在日常说法里，快柠檬机场强调订阅与节点接入方式，快柠檬 VPN 强调客户端里的加密通道与系统代理。对本页读者而言，二者指向同一条路径：在官网选择订阅，下载客户端，导入后作为梯子与网络加速器使用。不必纠结称呼，按配置流程做完即可。</p></details><details><summary>第一次使用快柠檬，最短要完成哪些步骤？</summary><p>四件事：阅读简介确认需求、在套餐方案中选定并取得订阅凭证、在客户端下载区安装对应应用、于应用内导入并更新后做一次网页连通确认。跳过导入直接打开加速开关，通常不会有可用配置。</p></details><details><summary>客户端应该从哪里获取？能否搜索随便下一个？</summary><p>请使用本页「客户端下载」中的官方下载入口。搜索引擎或网盘里的同名安装包无法在本页核对来源。快柠檬官网下载的目的，就是把各系统入口放在同一阅读路径里，减少装错应用的风险。</p></details><details><summary>导入订阅后列表是空的，或提示更新失败，怎么办？</summary><p>先核对凭证是否完整、有无多余空格或换行；再确认设备时间正确、网络当时可访问更新地址。仍失败时回到套餐模块查看凭证是否过期或需要重新生成，然后在客户端里删除旧订阅再添加一次。不要连续点击更新几十次。</p></details><details><summary>可以同时在手机和电脑上使用吗？</summary><p>可以按套餐允许的设备策略多台在线。具体台数以套餐方案模块中的说明为准，正文不另写一套数字。每台设备单独安装客户端并导入同一订阅；不用的设备在客户端内断开，以免占用名额。</p></details><details><summary>本页会不会提供节点数量、速度测评或用户评分？</summary><p>不会。快柠檬本页只提供可核对的简介、配置流程、场景、套餐入口、客户端入口与问答。未在资料中给出的性能、节点规模、评价与机构身份一律不写，以免把营销句子误当成事实。</p></details><details><summary>配置完成后如何判断网络加速已经生效？</summary><p>客户端显示已连接，且你原先难以打开的目标页面可以正常加载，即说明当前规则下通道可用。若仅图标亮起而页面仍超时，回到规则选择与订阅更新两步，而不是反复重装。生效确认应在配置流程第 5 步完成。</p></details></section></main><footer><p>快柠檬 · 机场订阅与 VPN 梯子网络加速说明页</p><p><a href=\"#intro\">返回简介</a> · <a href=\"#setup\">配置流程</a> · <a href=\"#clients\">客户端下载</a></p></footer>",
+          "hash": "f8d4ef9708330ec7db006418e8fa83a9ebb294125c8605ba9c0710d9195d0e7b",
+          "seo": {
+            "title": "快柠檬官网：VPN 梯子网络加速、机场订阅与客户端下载",
+            "keywords": "快柠檬,快柠檬机场,快柠檬VPN,VPN,梯子,网络加速,加速器,机场订阅,客户端下载,官网下载",
+            "description": "快柠檬提供机场订阅与 VPN 梯子网络加速说明，围绕配置流程整理使用场景、套餐入口与客户端官网下载，帮助在官方网站完成查阅与接入准备。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shanhuakj.com",
+    "host": "home.shanhuakj.com",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "shanhuakj.com",
+      "url": "https://shanhuakj.com/",
+      "label": "买节点",
+      "apex": "shanhuakj.com",
+      "kind": null,
+      "identity": "wan9900/page-be4df60f10b2f41d41955974"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "613578c614d1dee464d124b9960e6c854d6ed85530885c27c5322fa8bc8cf87c",
+    "sitemap.xml": "b0322749c658dca53032ab44529809894c215ecda9d9bb082a2cc15948ea9cf4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6201c9ee85c59ad0afb1a0d97d86220220e40ff566387531e6f6b08d02aa5202",
+    "robots.txt": "1bb922f7a53a54f7ef53597b84dbdded6be0725d782e1046ea752a5db461f7d5",
+    "44d43f765f6800a1ed63db63e5c2e4c4.txt": "dcc31f3b92bfc127213f300ffc480ab36001b05c1940592a2ba0b25cdca0d82f"
+  },
+  "revision": "63725ea104f7efc593e12851f0fad02e97e7d59e595c58523104a1e012f05540"
+}
